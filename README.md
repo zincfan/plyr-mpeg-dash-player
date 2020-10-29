@@ -6,7 +6,7 @@ Dash.js : https://github.com/Dash-Industry-Forum/dash.js?
 Image:
 
 Requirememnts:
-See index.html file in repo.
+See playr-dash-stream.html file in repo.
 1) A video tag with id="main_video"
 2) A source tag with id="main_video_src" and src="path/to/your/mpd/file.mpd"
 3)Ofcourse plyr js and css and dashjs js .
@@ -21,3 +21,5 @@ player is the window object created when dashjs is initialised. Type player in c
 Plyrplayer is the object created when plyr player is initialised.
 You can add 'auto' switch quality using workaround. Just add a number not in quality option in bitrate array. Update the same in updateQuality(). This displays that number in quality option. Just workaround it using some js.
 Call autoswitchquality() in console to turn on auto bitrate switch.
+
+License: Fell free to use modify it and use commercially. This is just a small implemetation i did. All rights belong to respective authors of the plyr and dashjs.
