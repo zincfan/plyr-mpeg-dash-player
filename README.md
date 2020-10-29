@@ -3,7 +3,7 @@ An implementation of mpeg-dash player for plyr player with quality control.
 This is an implementation of mpeg-dash playback on plyr player with quality switch control.
 Plyr player: https://github.com/sampotts/plyr
 Dash.js : https://github.com/Dash-Industry-Forum/dash.js?
-Image:
+Image: ![alt text](./plyr-dash-player.JPG?raw=true)
 
 Requirememnts:
 See playr-dash-stream.html file in repo.
