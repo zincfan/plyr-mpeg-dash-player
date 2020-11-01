@@ -22,4 +22,6 @@ Plyrplayer is the object created when plyr player is initialised.
 You can add 'auto' switch quality using workaround. Just add a number not in quality option in bitrate array. Update the same in updateQuality(). This displays that number in quality option. Just workaround it using some js.
 Call autoswitchquality() in console to turn on auto bitrate switch.
 
+Edit:Many have already implemented this. This is my own implementation and not somebody's copy. Just decided to keep this since it can come in search list of github and help someone. 
+
 License: Fell free to use modify it and use commercially. This is just a small implemetation i did. All rights belong to respective authors of the plyr and dashjs.
